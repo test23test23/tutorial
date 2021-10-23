@@ -1,2 +1,2 @@
-console.log('A');
-console.log('future-a 追加');
+console.log('B');
+console.log('future-b 追加');
